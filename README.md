@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-I'm a passionate developer with experience in Python, Node.js, C, and Ronlanguage. I enjoy creating innovative solutions and exploring new technologies.
-
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
