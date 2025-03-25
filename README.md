@@ -11,5 +11,5 @@ I'm a passionate developer with experience in Python, Node.js, C, and Ronlanguag
 ## 📈 GitHub Stats
 [![ECL-Adler400 profile views](https://u8views.com/api/v1/github/profiles/171491265/views/day-week-month-total-count.svg)](https://u8views.com/github/ECL-Adler400)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ECL-Adler400&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ECL-Adler400&show_icons=true&theme=tokyonight)
 
