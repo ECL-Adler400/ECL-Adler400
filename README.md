@@ -13,11 +13,3 @@ I'm a passionate developer with experience in Python, Node.js, C, and Ronlanguag
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ECL-Adler400&show_icons=true&theme=radical)
 
-
-## 📫 Get in Touch
-
-Feel free to reach out via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/).
-
----
-
-*Note: This profile README was generated to showcase my projects and skills.*
