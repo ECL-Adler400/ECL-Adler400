@@ -25,13 +25,6 @@
   <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ECL-Adler400&theme=tokyonight" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ECL-Adler400&theme=tokyonight&exclude=html,css" /> </p>
 </div>
 
----
-
-### 🚀 Fun Facts
-- 🧠 Always learning new things
-- 🕹️ I break things just to fix them
-
----
 
 ### 🥚 Easter Egg
 
@@ -41,4 +34,4 @@
 
 ---
 
-*"Clean code, clean mind."*  
+*"The best way to predict the future is to invent it." – Alan Kay*  
