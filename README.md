@@ -1,8 +1,9 @@
 <h1 align="center">Hey there! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7A900&center=true&vCenter=true&width=500&lines=New+Developer;Python+%7C+Node.js;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7A900&center=true&vCenter=true&width=600&lines=New+Developer;Python+%7C+Node.js;Always+Learning+New+Things;Exploring+Tech+Horizons;The+best+way+to+predict+the+future+is+to+invent+it+%7C+Alan Kay." />
 </p>
+
 
 ---
 
