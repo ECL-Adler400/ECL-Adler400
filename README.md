@@ -81,10 +81,6 @@
 <h2 align="center">Biggest Lesson 💡</h2>
 <p align="center">"Debugging is twice as hard as writing the code in the first place."</p>
 
--  **Biggest Lesson:**   
-- 🎮 **Hobbies:** -
-- 🤖 **Hero:** -
-
 ---
 
 ## 🥚 Easter Egg  
@@ -95,6 +91,7 @@ Click if you dare...
   </a>  
 </p>  
 
+---
 <div style="text-align: center;">
 <pre>
 .------------------------------------------.
