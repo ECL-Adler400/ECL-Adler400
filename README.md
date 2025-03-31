@@ -17,8 +17,14 @@
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-WSL-4E4E4E?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <br>  
 </p>  
+
+<!-- Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00A8E8&center=true&width=435&lines=Windows+User;Bash+%26+PowerShell+Enthusiast;WSL+Lover;C+Programmer" />
+</p>
 
 
 ---
