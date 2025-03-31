@@ -23,7 +23,7 @@
 
 <!-- Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00A8E8&center=true&width=435&lines=Windows+User;Bash+%26+PowerShell+Enthusiast;WSL+Lover;C+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00A8E8&center=true&width=435&lines=Windows+User;Bash+%26+PowerShell+%26+WSL" />
 </p>
 
 
