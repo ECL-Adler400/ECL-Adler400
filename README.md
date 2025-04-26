@@ -24,10 +24,10 @@
 
 ---
 
-## 🥚 Easter Egg  
-Click if you dare...  
-<p>  
-  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">  
-    <img src="https://img.shields.io/badge/Watch Video-EA4335?style=for-the-badge&logo=youtube&logoColor=white" />  
-  </a>  
-</p>  
+## 🎥 Hidden Transmission  
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
+    <img src="https://img.shields.io/badge/Activate Transmission-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
