@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=600&color=F7A900&center=true&vCenter=true&width=700&lines=Passionate+Developer+%7C+Problem+Solver;Life+Enthusiast;Lifelong+Learner;Exploring+AI+%26+Automation;Breaking+Code+%26+Fixing+It+Since+Day+One!;The+future+belongs+to+those+who+build+it." />
 </p>  
 
-
-
-
 ---
 
 <h2 align="center">📊 GitHub Stats  </h2>
@@ -23,7 +20,7 @@
 ---
 
 <h2 align="center">Biggest Lesson 💡</h2>
-<p align="center">"Debugging is twice as hard as writing the code in the first place."</p>
+<p align="center">"Keep learning, keep growing."</p>
 
 ---
 
@@ -34,16 +31,3 @@ Click if you dare...
     <img src="https://img.shields.io/badge/Watch Video-EA4335?style=for-the-badge&logo=youtube&logoColor=white" />  
   </a>  
 </p>  
-
----
-<div style="text-align: center;">
-<pre>
-.------------------------------------------.
-| The future belongs to those who build it |
-'------------------------------------------'
-</pre>
-</div>
-
-
---**Alan Turing**
-
